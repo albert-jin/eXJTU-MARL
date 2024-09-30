@@ -17,15 +17,15 @@ eXJTU-MARL introduces two key mechanisms:
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/albert-jin/eXJTU-MARL
+```git clone https://github.com/albert-jin/eXJTU-MARL```
 
 2. Install dependencies:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ## Usage
 To run the eXJTU-MARL framework, you can simply execute the following command:
-python train.py --config=config_file.yaml
+```python train.py --config=config_file.yaml```
 
 This script will initiate training based on the configurations provided.
 
@@ -34,7 +34,8 @@ eXJTU-MARL has shown superior performance across various environments in SMAC, a
 
 ## Citation
 If you use this code in your research, please cite:
-@article{jin2024exjtu-marl, title={Enhancing Multi-Agent Reinforcement Learning via Efficient Exploration and Learning: Adaptive Policy Resetting and Balanced Experience Sampling}, author={Weiqiang Jin, Xingwu Tian, Ningwei Wang, Baohai Wu, Bohang Shi, Biao Zhao, Guang Yang}, journal={IEEE}, year={2024} }
+
+```@article{jin2024exjtu-marl, title={Enhancing Multi-Agent Reinforcement Learning via Efficient Exploration and Learning: Adaptive Policy Resetting and Balanced Experience Sampling}, author={Weiqiang Jin, Xingwu Tian, Ningwei Wang, Baohai Wu, Bohang Shi, Biao Zhao, Guang Yang}, journal={IEEE}, year={2024} }```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
