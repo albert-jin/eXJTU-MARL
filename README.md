@@ -35,7 +35,14 @@ eXJTU-MARL has shown superior performance across various environments in SMAC, a
 ## Citation
 If you use this code in your research, please cite:
 
-```@article{jin2024exjtu-marl, title={Enhancing Multi-Agent Reinforcement Learning via Efficient Exploration and Learning: Adaptive Policy Resetting and Balanced Experience Sampling}, author={Weiqiang Jin, Xingwu Tian, Ningwei Wang, Baohai Wu, Bohang Shi, Biao Zhao, Guang Yang}, journal={Neural Networks}, year={2024} }```
+```
+@article{jin2024exjtu-marl, 
+title={Representation-Driven Sampling and Adaptive Policy Resetting for Improving Multi Agent Reinforcement Learning},
+author={Weiqiang Jin, Xingwu Tian, Ningwei Wang, Baohai Wu, Bohang Shi, Biao Zhao, Guang Yang},
+journal={Neural Networks},
+year={2024},
+}
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
